@@ -1,0 +1,17 @@
+{
+  "name": "kq-react-redux",
+  "version": "1.0.2",
+  "description": "JavaScript Library",
+  "license": "MIT",
+  "author": {
+    "name": "KQ",
+    "url": "https://github.com/kq15"
+  },
+  "homepage": "https://github.com/kq15/kq-react-redux",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kq15/kq-react-redux.git"
+  },
+  "main": "index.js",
+  "dependencies": {}
+}
